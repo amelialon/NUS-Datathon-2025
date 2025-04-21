@@ -1,4 +1,4 @@
-# NUS Datathon 2025 - Company Classification Project
+# NUS Datathon 2025 - Machine Learning for Company Classification: Predicting Domestic and Global Markets
 
 ## Project Overview
 Participated in the **NUS Datathon 2025**, a 6-day data science competition focused on developing a machine learning model to predict company classifications (Domestic vs. Global) based on operational, financial, and structural characteristics.
